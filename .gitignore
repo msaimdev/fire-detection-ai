@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+venv_old/
+.venv/
+env/
+
+# Environment secrets
+.env
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignore uploaded prediction images
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Ignore Python environment and generated files
+venv/
+venv_old/
+.venv/
+__pycache__/
+*.py[cod]
