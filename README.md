@@ -14,6 +14,16 @@ This project combines a Flask web application with a trained MobileNetV2-based n
 - Displays the uploaded image and prediction result
 - Simple browser-based interface built with HTML and CSS
 
+## Screenshots
+
+### Fire Detected
+
+![Fire Detected prediction](screenshots/fire-detected.png)
+
+### No Fire Detected
+
+![No Fire prediction](screenshots/no-fire.png)
+
 ## Technology Stack
 
 - Python 3.11
